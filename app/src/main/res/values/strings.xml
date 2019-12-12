@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">My Application1</string>
+    <string name="status">請輸入名子以開始</string>
+    <string name="getin">請輸入</string>
+    <string name="WINNER">勝利者</string>
+    <string name="CUT">剪刀</string>
+    <string name="STONE">石頭</string>
+    <string name="布">布</string>
+    <string name="NAME">名子</string>
+    <string name="名字">名字</string>
+    <string name="XXX">XXX</string>
+    <string name="勝利者">勝利者</string>
+    <string name="我方出拳">我方出拳</string>
+    <string name="石頭">石頭</string>
+    <string name="電腦出拳">電腦出拳</string>
 </resources>
